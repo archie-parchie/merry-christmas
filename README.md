@@ -1,4 +1,4 @@
-
+This code plays the tune "We Wish You A Merry Christmas" on a microbit!
 > Open this page at [https://archie-parchie.github.io/merry-christmas/](https://archie-parchie.github.io/merry-christmas/)
 
 ## Use as Extension
